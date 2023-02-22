@@ -1,3 +1,5 @@
 # damar203
 
-# damarr203
+**Nama** : Georgius Damarjati S
+
+**NIM** : 215314203
